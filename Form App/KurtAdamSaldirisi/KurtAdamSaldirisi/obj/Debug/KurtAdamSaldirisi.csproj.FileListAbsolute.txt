@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\KurtAdamSaldirisi\KurtAdamSaldirisi\bin\Debug\KurtAdamSaldirisi.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\KurtAdamSaldirisi\KurtAdamSaldirisi\bin\Debug\KurtAdamSaldirisi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\KurtAdamSaldirisi\KurtAdamSaldirisi\bin\Debug\KurtAdamSaldirisi.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\KurtAdamSaldirisi\KurtAdamSaldirisi\obj\Debug\KurtAdamSaldirisi.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\KurtAdamSaldirisi\KurtAdamSaldirisi\obj\Debug\KurtAdamSaldirisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\KurtAdamSaldirisi\KurtAdamSaldirisi\obj\Debug\KurtAdamSaldirisi.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\KurtAdamSaldirisi\KurtAdamSaldirisi\obj\Debug\KurtAdamSaldirisi.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\KurtAdamSaldirisi\KurtAdamSaldirisi\obj\Debug\KurtAdamSaldirisi.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\KurtAdamSaldirisi\KurtAdamSaldirisi\obj\Debug\KurtAdamSaldirisi.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\KurtAdamSaldirisi\KurtAdamSaldirisi\obj\Debug\KurtAdamSaldirisi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\KurtAdamSaldirisi\KurtAdamSaldirisi\obj\Debug\KurtAdamSaldirisi.pdb

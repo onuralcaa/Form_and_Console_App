@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\RandomNumberGenerate\RandomNumberGenerate\bin\Debug\RandomNumberGenerate.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\RandomNumberGenerate\RandomNumberGenerate\bin\Debug\RandomNumberGenerate.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\RandomNumberGenerate\RandomNumberGenerate\bin\Debug\RandomNumberGenerate.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\RandomNumberGenerate\RandomNumberGenerate\obj\Debug\RandomNumberGenerate.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\RandomNumberGenerate\RandomNumberGenerate\obj\Debug\RandomNumberGenerate.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\RandomNumberGenerate\RandomNumberGenerate\obj\Debug\RandomNumberGenerate.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\RandomNumberGenerate\RandomNumberGenerate\obj\Debug\RandomNumberGenerate.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\RandomNumberGenerate\RandomNumberGenerate\obj\Debug\RandomNumberGenerate.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\RandomNumberGenerate\RandomNumberGenerate\obj\Debug\RandomNumberGenerate.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\RandomNumberGenerate\RandomNumberGenerate\obj\Debug\RandomNumberGenerate.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\RandomNumberGenerate\RandomNumberGenerate\obj\Debug\RandomNumberGenerate.pdb

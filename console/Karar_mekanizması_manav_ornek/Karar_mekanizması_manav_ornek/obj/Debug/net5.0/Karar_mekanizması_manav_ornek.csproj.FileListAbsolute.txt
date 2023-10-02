@@ -1,0 +1,16 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\obj\Debug\net5.0\Karar_mekanizması_manav_ornek.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\obj\Debug\net5.0\Karar_mekanizması_manav_ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\obj\Debug\net5.0\Karar_mekanizması_manav_ornek.AssemblyInfoInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\obj\Debug\net5.0\Karar_mekanizması_manav_ornek.AssemblyInfo.cs
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\obj\Debug\net5.0\Karar_mekanizması_manav_ornek.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\bin\Debug\net5.0\Karar_mekanizması_manav_ornek.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\bin\Debug\net5.0\Karar_mekanizması_manav_ornek.deps.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\bin\Debug\net5.0\Karar_mekanizması_manav_ornek.runtimeconfig.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\bin\Debug\net5.0\Karar_mekanizması_manav_ornek.runtimeconfig.dev.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\bin\Debug\net5.0\Karar_mekanizması_manav_ornek.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\bin\Debug\net5.0\Karar_mekanizması_manav_ornek.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\obj\Debug\net5.0\Karar_mekanizması_manav_ornek.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\obj\Debug\net5.0\refint\Karar_mekanizması_manav_ornek.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\obj\Debug\net5.0\Karar_mekanizması_manav_ornek.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\obj\Debug\net5.0\Karar_mekanizması_manav_ornek.genruntimeconfig.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Karar_mekanizması_manav_ornek\Karar_mekanizması_manav_ornek\obj\Debug\net5.0\ref\Karar_mekanizması_manav_ornek.dll

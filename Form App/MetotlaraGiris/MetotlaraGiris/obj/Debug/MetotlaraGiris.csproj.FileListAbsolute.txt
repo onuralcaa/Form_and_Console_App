@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlaraGiris\MetotlaraGiris\bin\Debug\MetotlaraGiris.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlaraGiris\MetotlaraGiris\bin\Debug\MetotlaraGiris.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlaraGiris\MetotlaraGiris\bin\Debug\MetotlaraGiris.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlaraGiris\MetotlaraGiris\obj\Debug\MetotlaraGiris.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlaraGiris\MetotlaraGiris\obj\Debug\MetotlaraGiris.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlaraGiris\MetotlaraGiris\obj\Debug\MetotlaraGiris.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlaraGiris\MetotlaraGiris\obj\Debug\MetotlaraGiris.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlaraGiris\MetotlaraGiris\obj\Debug\MetotlaraGiris.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlaraGiris\MetotlaraGiris\obj\Debug\MetotlaraGiris.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlaraGiris\MetotlaraGiris\obj\Debug\MetotlaraGiris.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlaraGiris\MetotlaraGiris\obj\Debug\MetotlaraGiris.pdb

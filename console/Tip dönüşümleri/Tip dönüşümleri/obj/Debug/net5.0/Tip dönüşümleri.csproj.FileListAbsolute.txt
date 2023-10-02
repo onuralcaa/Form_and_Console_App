@@ -1,0 +1,16 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\bin\Debug\net5.0\Tip dönüşümleri.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\bin\Debug\net5.0\Tip dönüşümleri.deps.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\bin\Debug\net5.0\Tip dönüşümleri.runtimeconfig.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\bin\Debug\net5.0\Tip dönüşümleri.runtimeconfig.dev.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\bin\Debug\net5.0\Tip dönüşümleri.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\bin\Debug\net5.0\Tip dönüşümleri.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\obj\Debug\net5.0\Tip dönüşümleri.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\obj\Debug\net5.0\Tip dönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\obj\Debug\net5.0\Tip dönüşümleri.AssemblyInfoInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\obj\Debug\net5.0\Tip dönüşümleri.AssemblyInfo.cs
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\obj\Debug\net5.0\Tip dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\obj\Debug\net5.0\Tip dönüşümleri.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\obj\Debug\net5.0\refint\Tip dönüşümleri.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\obj\Debug\net5.0\Tip dönüşümleri.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\obj\Debug\net5.0\Tip dönüşümleri.genruntimeconfig.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri\Tip dönüşümleri\obj\Debug\net5.0\ref\Tip dönüşümleri.dll

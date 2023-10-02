@@ -1,0 +1,8 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_ödev\String_ödev\obj\Debug\String_ödev.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_ödev\String_ödev\obj\Debug\String_ödev.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_ödev\String_ödev\obj\Debug\String_ödev.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_ödev\String_ödev\bin\Debug\String_ödev.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_ödev\String_ödev\bin\Debug\String_ödev.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_ödev\String_ödev\bin\Debug\String_ödev.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_ödev\String_ödev\obj\Debug\String_ödev.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_ödev\String_ödev\obj\Debug\String_ödev.pdb

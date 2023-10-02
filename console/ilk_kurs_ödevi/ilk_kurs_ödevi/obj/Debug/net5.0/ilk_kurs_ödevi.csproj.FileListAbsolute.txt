@@ -1,0 +1,16 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\bin\Debug\net5.0\ilk_kurs_ödevi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\bin\Debug\net5.0\ilk_kurs_ödevi.deps.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\bin\Debug\net5.0\ilk_kurs_ödevi.runtimeconfig.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\bin\Debug\net5.0\ilk_kurs_ödevi.runtimeconfig.dev.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\bin\Debug\net5.0\ilk_kurs_ödevi.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\bin\Debug\net5.0\ilk_kurs_ödevi.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\obj\Debug\net5.0\ilk_kurs_ödevi.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\obj\Debug\net5.0\ilk_kurs_ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\obj\Debug\net5.0\ilk_kurs_ödevi.AssemblyInfoInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\obj\Debug\net5.0\ilk_kurs_ödevi.AssemblyInfo.cs
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\obj\Debug\net5.0\ilk_kurs_ödevi.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\obj\Debug\net5.0\ilk_kurs_ödevi.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\obj\Debug\net5.0\refint\ilk_kurs_ödevi.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\obj\Debug\net5.0\ilk_kurs_ödevi.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\obj\Debug\net5.0\ilk_kurs_ödevi.genruntimeconfig.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ilk_kurs_ödevi\ilk_kurs_ödevi\obj\Debug\net5.0\ref\ilk_kurs_ödevi.dll

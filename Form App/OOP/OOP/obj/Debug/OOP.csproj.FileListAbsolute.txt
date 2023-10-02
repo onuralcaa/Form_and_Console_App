@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\OOP\OOP\obj\Debug\OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\OOP\OOP\obj\Debug\OOP.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\OOP\OOP\obj\Debug\OOP.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\OOP\OOP\obj\Debug\OOP.pdb

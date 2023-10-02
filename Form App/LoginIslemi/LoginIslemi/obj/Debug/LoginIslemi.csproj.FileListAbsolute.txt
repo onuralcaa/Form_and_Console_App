@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\LoginIslemi\LoginIslemi\bin\Debug\LoginIslemi.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\LoginIslemi\LoginIslemi\bin\Debug\LoginIslemi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\LoginIslemi\LoginIslemi\bin\Debug\LoginIslemi.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\LoginIslemi\LoginIslemi\obj\Debug\LoginIslemi.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\LoginIslemi\LoginIslemi\obj\Debug\LoginIslemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\LoginIslemi\LoginIslemi\obj\Debug\LoginIslemi.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\LoginIslemi\LoginIslemi\obj\Debug\LoginIslemi.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\LoginIslemi\LoginIslemi\obj\Debug\LoginIslemi.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\LoginIslemi\LoginIslemi\obj\Debug\LoginIslemi.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\LoginIslemi\LoginIslemi\obj\Debug\LoginIslemi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\LoginIslemi\LoginIslemi\obj\Debug\LoginIslemi.pdb

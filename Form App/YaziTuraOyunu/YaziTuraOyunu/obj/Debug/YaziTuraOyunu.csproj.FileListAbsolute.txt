@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YaziTuraOyunu\YaziTuraOyunu\bin\Debug\YaziTuraOyunu.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YaziTuraOyunu\YaziTuraOyunu\bin\Debug\YaziTuraOyunu.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YaziTuraOyunu\YaziTuraOyunu\bin\Debug\YaziTuraOyunu.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YaziTuraOyunu\YaziTuraOyunu\obj\Debug\YaziTuraOyunu.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YaziTuraOyunu\YaziTuraOyunu\obj\Debug\YaziTuraOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YaziTuraOyunu\YaziTuraOyunu\obj\Debug\YaziTuraOyunu.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YaziTuraOyunu\YaziTuraOyunu\obj\Debug\YaziTuraOyunu.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YaziTuraOyunu\YaziTuraOyunu\obj\Debug\YaziTuraOyunu.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YaziTuraOyunu\YaziTuraOyunu\obj\Debug\YaziTuraOyunu.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YaziTuraOyunu\YaziTuraOyunu\obj\Debug\YaziTuraOyunu.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YaziTuraOyunu\YaziTuraOyunu\obj\Debug\YaziTuraOyunu.pdb

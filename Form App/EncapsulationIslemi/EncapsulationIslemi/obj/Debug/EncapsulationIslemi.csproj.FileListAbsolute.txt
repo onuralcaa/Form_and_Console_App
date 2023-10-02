@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\EncapsulationIslemi\EncapsulationIslemi\bin\Debug\EncapsulationIslemi.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\EncapsulationIslemi\EncapsulationIslemi\bin\Debug\EncapsulationIslemi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\EncapsulationIslemi\EncapsulationIslemi\bin\Debug\EncapsulationIslemi.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\EncapsulationIslemi\EncapsulationIslemi\obj\Debug\EncapsulationIslemi.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\EncapsulationIslemi\EncapsulationIslemi\obj\Debug\EncapsulationIslemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\EncapsulationIslemi\EncapsulationIslemi\obj\Debug\EncapsulationIslemi.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\EncapsulationIslemi\EncapsulationIslemi\obj\Debug\EncapsulationIslemi.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\EncapsulationIslemi\EncapsulationIslemi\obj\Debug\EncapsulationIslemi.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\EncapsulationIslemi\EncapsulationIslemi\obj\Debug\EncapsulationIslemi.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\EncapsulationIslemi\EncapsulationIslemi\obj\Debug\EncapsulationIslemi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\EncapsulationIslemi\EncapsulationIslemi\obj\Debug\EncapsulationIslemi.pdb

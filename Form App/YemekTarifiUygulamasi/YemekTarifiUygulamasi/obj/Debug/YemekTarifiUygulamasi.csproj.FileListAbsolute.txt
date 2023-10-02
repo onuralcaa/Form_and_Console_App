@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YemekTarifiUygulamasi\YemekTarifiUygulamasi\bin\Debug\YemekTarifiUygulamasi.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YemekTarifiUygulamasi\YemekTarifiUygulamasi\bin\Debug\YemekTarifiUygulamasi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YemekTarifiUygulamasi\YemekTarifiUygulamasi\bin\Debug\YemekTarifiUygulamasi.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YemekTarifiUygulamasi\YemekTarifiUygulamasi\obj\Debug\YemekTarifiUygulamasi.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YemekTarifiUygulamasi\YemekTarifiUygulamasi\obj\Debug\YemekTarifiUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YemekTarifiUygulamasi\YemekTarifiUygulamasi\obj\Debug\YemekTarifiUygulamasi.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YemekTarifiUygulamasi\YemekTarifiUygulamasi\obj\Debug\YemekTarifiUygulamasi.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YemekTarifiUygulamasi\YemekTarifiUygulamasi\obj\Debug\YemekTarifiUygulamasi.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YemekTarifiUygulamasi\YemekTarifiUygulamasi\obj\Debug\YemekTarifiUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YemekTarifiUygulamasi\YemekTarifiUygulamasi\obj\Debug\YemekTarifiUygulamasi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\YemekTarifiUygulamasi\YemekTarifiUygulamasi\obj\Debug\YemekTarifiUygulamasi.pdb

@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlarOrnek1\MetotlarOrnek1\obj\Debug\MetotlarOrnek1.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlarOrnek1\MetotlarOrnek1\obj\Debug\MetotlarOrnek1.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlarOrnek1\MetotlarOrnek1\obj\Debug\MetotlarOrnek1.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlarOrnek1\MetotlarOrnek1\obj\Debug\MetotlarOrnek1.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlarOrnek1\MetotlarOrnek1\obj\Debug\MetotlarOrnek1.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlarOrnek1\MetotlarOrnek1\obj\Debug\MetotlarOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlarOrnek1\MetotlarOrnek1\bin\Debug\MetotlarOrnek1.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlarOrnek1\MetotlarOrnek1\bin\Debug\MetotlarOrnek1.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlarOrnek1\MetotlarOrnek1\bin\Debug\MetotlarOrnek1.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlarOrnek1\MetotlarOrnek1\obj\Debug\MetotlarOrnek1.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlarOrnek1\MetotlarOrnek1\obj\Debug\MetotlarOrnek1.pdb

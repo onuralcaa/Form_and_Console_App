@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\Inheritence(Kalitim, Miras)\Inheritence(Kalitim, Miras)\obj\Debug\Inheritence(Kalitim, Miras).csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\Inheritence(Kalitim, Miras)\Inheritence(Kalitim, Miras)\obj\Debug\Inheritence(Kalitim, Miras).csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\Inheritence(Kalitim, Miras)\Inheritence(Kalitim, Miras)\obj\Debug\Inheritence_Kalitim__Miras_.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\Inheritence(Kalitim, Miras)\Inheritence(Kalitim, Miras)\obj\Debug\Inheritence_Kalitim__Miras_.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\Inheritence(Kalitim, Miras)\Inheritence(Kalitim, Miras)\obj\Debug\Inheritence(Kalitim, Miras).csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\Inheritence(Kalitim, Miras)\Inheritence(Kalitim, Miras)\obj\Debug\Inheritence(Kalitim, Miras).csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\Inheritence(Kalitim, Miras)\Inheritence(Kalitim, Miras)\bin\Debug\Inheritence(Kalitim, Miras).exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\Inheritence(Kalitim, Miras)\Inheritence(Kalitim, Miras)\bin\Debug\Inheritence(Kalitim, Miras).exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\Inheritence(Kalitim, Miras)\Inheritence(Kalitim, Miras)\bin\Debug\Inheritence(Kalitim, Miras).pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\Inheritence(Kalitim, Miras)\Inheritence(Kalitim, Miras)\obj\Debug\Inheritence(Kalitim, Miras).exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\Inheritence(Kalitim, Miras)\Inheritence(Kalitim, Miras)\obj\Debug\Inheritence(Kalitim, Miras).pdb

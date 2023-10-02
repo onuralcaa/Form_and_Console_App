@@ -1,0 +1,16 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\obj\Debug\net5.0\Dikdörtgenin_alanını_hesaplayan_kod.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\obj\Debug\net5.0\Dikdörtgenin_alanını_hesaplayan_kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\obj\Debug\net5.0\Dikdörtgenin_alanını_hesaplayan_kod.AssemblyInfoInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\obj\Debug\net5.0\Dikdörtgenin_alanını_hesaplayan_kod.AssemblyInfo.cs
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\obj\Debug\net5.0\Dikdörtgenin_alanını_hesaplayan_kod.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\bin\Debug\net5.0\Dikdörtgenin_alanını_hesaplayan_kod.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\bin\Debug\net5.0\Dikdörtgenin_alanını_hesaplayan_kod.deps.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\bin\Debug\net5.0\Dikdörtgenin_alanını_hesaplayan_kod.runtimeconfig.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\bin\Debug\net5.0\Dikdörtgenin_alanını_hesaplayan_kod.runtimeconfig.dev.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\bin\Debug\net5.0\Dikdörtgenin_alanını_hesaplayan_kod.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\bin\Debug\net5.0\Dikdörtgenin_alanını_hesaplayan_kod.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\obj\Debug\net5.0\Dikdörtgenin_alanını_hesaplayan_kod.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\obj\Debug\net5.0\refint\Dikdörtgenin_alanını_hesaplayan_kod.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\obj\Debug\net5.0\Dikdörtgenin_alanını_hesaplayan_kod.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\obj\Debug\net5.0\Dikdörtgenin_alanını_hesaplayan_kod.genruntimeconfig.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Dikdörtgenin_alanını_hesaplayan_kod\Dikdörtgenin_alanını_hesaplayan_kod\obj\Debug\net5.0\ref\Dikdörtgenin_alanını_hesaplayan_kod.dll

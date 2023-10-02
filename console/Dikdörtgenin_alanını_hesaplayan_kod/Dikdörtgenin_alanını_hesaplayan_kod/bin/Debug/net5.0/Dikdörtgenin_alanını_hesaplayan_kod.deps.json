@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dikdörtgenin_alanını_hesaplayan_kod/1.0.0": {
+        "runtime": {
+          "Dikdörtgenin_alanını_hesaplayan_kod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dikdörtgenin_alanını_hesaplayan_kod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

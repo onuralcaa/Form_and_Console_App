@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\HesapMakinesi_Ornegi\HesapMakinesi_Ornegi\obj\Debug\HesapMakinesi_Ornegi.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\HesapMakinesi_Ornegi\HesapMakinesi_Ornegi\obj\Debug\HesapMakinesi_Ornegi.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\HesapMakinesi_Ornegi\HesapMakinesi_Ornegi\obj\Debug\HesapMakinesi_Ornegi.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\HesapMakinesi_Ornegi\HesapMakinesi_Ornegi\obj\Debug\HesapMakinesi_Ornegi.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\HesapMakinesi_Ornegi\HesapMakinesi_Ornegi\obj\Debug\HesapMakinesi_Ornegi.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\HesapMakinesi_Ornegi\HesapMakinesi_Ornegi\obj\Debug\HesapMakinesi_Ornegi.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\HesapMakinesi_Ornegi\HesapMakinesi_Ornegi\bin\Debug\HesapMakinesi_Ornegi.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\HesapMakinesi_Ornegi\HesapMakinesi_Ornegi\bin\Debug\HesapMakinesi_Ornegi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\HesapMakinesi_Ornegi\HesapMakinesi_Ornegi\bin\Debug\HesapMakinesi_Ornegi.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\HesapMakinesi_Ornegi\HesapMakinesi_Ornegi\obj\Debug\HesapMakinesi_Ornegi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\HesapMakinesi_Ornegi\HesapMakinesi_Ornegi\obj\Debug\HesapMakinesi_Ornegi.pdb

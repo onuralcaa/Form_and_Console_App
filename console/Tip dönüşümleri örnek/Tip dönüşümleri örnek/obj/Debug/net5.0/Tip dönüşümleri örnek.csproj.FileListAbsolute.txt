@@ -1,0 +1,16 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\obj\Debug\net5.0\Tip dönüşümleri örnek.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\obj\Debug\net5.0\Tip dönüşümleri örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\obj\Debug\net5.0\Tip dönüşümleri örnek.AssemblyInfoInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\obj\Debug\net5.0\Tip dönüşümleri örnek.AssemblyInfo.cs
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\obj\Debug\net5.0\Tip dönüşümleri örnek.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\bin\Debug\net5.0\Tip dönüşümleri örnek.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\bin\Debug\net5.0\Tip dönüşümleri örnek.deps.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\bin\Debug\net5.0\Tip dönüşümleri örnek.runtimeconfig.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\bin\Debug\net5.0\Tip dönüşümleri örnek.runtimeconfig.dev.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\bin\Debug\net5.0\Tip dönüşümleri örnek.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\bin\Debug\net5.0\Tip dönüşümleri örnek.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\obj\Debug\net5.0\Tip dönüşümleri örnek.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\obj\Debug\net5.0\refint\Tip dönüşümleri örnek.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\obj\Debug\net5.0\Tip dönüşümleri örnek.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\obj\Debug\net5.0\Tip dönüşümleri örnek.genruntimeconfig.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Tip dönüşümleri örnek\Tip dönüşümleri örnek\obj\Debug\net5.0\ref\Tip dönüşümleri örnek.dll

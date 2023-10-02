@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlardaParametreOrnegi\MetotlardaParametreOrnegi\obj\Debug\MetotlardaParametreOrnegi.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlardaParametreOrnegi\MetotlardaParametreOrnegi\obj\Debug\MetotlardaParametreOrnegi.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlardaParametreOrnegi\MetotlardaParametreOrnegi\obj\Debug\MetotlardaParametreOrnegi.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlardaParametreOrnegi\MetotlardaParametreOrnegi\obj\Debug\MetotlardaParametreOrnegi.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlardaParametreOrnegi\MetotlardaParametreOrnegi\obj\Debug\MetotlardaParametreOrnegi.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlardaParametreOrnegi\MetotlardaParametreOrnegi\obj\Debug\MetotlardaParametreOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlardaParametreOrnegi\MetotlardaParametreOrnegi\bin\Debug\MetotlardaParametreOrnegi.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlardaParametreOrnegi\MetotlardaParametreOrnegi\bin\Debug\MetotlardaParametreOrnegi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlardaParametreOrnegi\MetotlardaParametreOrnegi\bin\Debug\MetotlardaParametreOrnegi.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlardaParametreOrnegi\MetotlardaParametreOrnegi\obj\Debug\MetotlardaParametreOrnegi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\MetotlardaParametreOrnegi\MetotlardaParametreOrnegi\obj\Debug\MetotlardaParametreOrnegi.pdb

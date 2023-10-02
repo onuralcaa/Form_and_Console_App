@@ -1,0 +1,16 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\obj\Debug\net5.0\if_else_örnek.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\obj\Debug\net5.0\if_else_örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\obj\Debug\net5.0\if_else_örnek.AssemblyInfoInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\obj\Debug\net5.0\if_else_örnek.AssemblyInfo.cs
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\obj\Debug\net5.0\if_else_örnek.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\bin\Debug\net5.0\if_else_örnek.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\bin\Debug\net5.0\if_else_örnek.deps.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\bin\Debug\net5.0\if_else_örnek.runtimeconfig.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\bin\Debug\net5.0\if_else_örnek.runtimeconfig.dev.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\bin\Debug\net5.0\if_else_örnek.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\bin\Debug\net5.0\if_else_örnek.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\obj\Debug\net5.0\if_else_örnek.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\obj\Debug\net5.0\refint\if_else_örnek.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\obj\Debug\net5.0\if_else_örnek.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\obj\Debug\net5.0\if_else_örnek.genruntimeconfig.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\if_else_örnek\if_else_örnek\obj\Debug\net5.0\ref\if_else_örnek.dll

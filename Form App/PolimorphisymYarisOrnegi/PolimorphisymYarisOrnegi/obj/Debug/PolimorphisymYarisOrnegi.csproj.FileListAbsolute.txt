@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\PolimorphisymYarisOrnegi\PolimorphisymYarisOrnegi\bin\Debug\PolimorphisymYarisOrnegi.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\PolimorphisymYarisOrnegi\PolimorphisymYarisOrnegi\bin\Debug\PolimorphisymYarisOrnegi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\PolimorphisymYarisOrnegi\PolimorphisymYarisOrnegi\bin\Debug\PolimorphisymYarisOrnegi.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\PolimorphisymYarisOrnegi\PolimorphisymYarisOrnegi\obj\Debug\PolimorphisymYarisOrnegi.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\PolimorphisymYarisOrnegi\PolimorphisymYarisOrnegi\obj\Debug\PolimorphisymYarisOrnegi.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\PolimorphisymYarisOrnegi\PolimorphisymYarisOrnegi\obj\Debug\PolimorphisymYarisOrnegi.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\PolimorphisymYarisOrnegi\PolimorphisymYarisOrnegi\obj\Debug\PolimorphisymYarisOrnegi.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\PolimorphisymYarisOrnegi\PolimorphisymYarisOrnegi\obj\Debug\PolimorphisymYarisOrnegi.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\PolimorphisymYarisOrnegi\PolimorphisymYarisOrnegi\obj\Debug\PolimorphisymYarisOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\PolimorphisymYarisOrnegi\PolimorphisymYarisOrnegi\obj\Debug\PolimorphisymYarisOrnegi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\PolimorphisymYarisOrnegi\PolimorphisymYarisOrnegi\obj\Debug\PolimorphisymYarisOrnegi.pdb

@@ -1,0 +1,16 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\bin\Debug\net5.0\String_kullanımı.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\bin\Debug\net5.0\String_kullanımı.deps.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\bin\Debug\net5.0\String_kullanımı.runtimeconfig.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\bin\Debug\net5.0\String_kullanımı.runtimeconfig.dev.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\bin\Debug\net5.0\String_kullanımı.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\bin\Debug\net5.0\String_kullanımı.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\obj\Debug\net5.0\String_kullanımı.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\obj\Debug\net5.0\String_kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\obj\Debug\net5.0\String_kullanımı.AssemblyInfoInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\obj\Debug\net5.0\String_kullanımı.AssemblyInfo.cs
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\obj\Debug\net5.0\String_kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\obj\Debug\net5.0\String_kullanımı.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\obj\Debug\net5.0\refint\String_kullanımı.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\obj\Debug\net5.0\String_kullanımı.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\obj\Debug\net5.0\String_kullanımı.genruntimeconfig.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\String_kullanımı\String_kullanımı\obj\Debug\net5.0\ref\String_kullanımı.dll

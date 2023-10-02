@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TelefonNumarasiDogrulamaUygulamasi\TelefonNumarasiDogrulamaUygulamasi\obj\Debug\TelefonNumarasiDogrulamaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TelefonNumarasiDogrulamaUygulamasi\TelefonNumarasiDogrulamaUygulamasi\obj\Debug\TelefonNumarasiDogrulamaUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TelefonNumarasiDogrulamaUygulamasi\TelefonNumarasiDogrulamaUygulamasi\obj\Debug\TelefonNumarasiDogrulamaUygulamasi.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TelefonNumarasiDogrulamaUygulamasi\TelefonNumarasiDogrulamaUygulamasi\obj\Debug\TelefonNumarasiDogrulamaUygulamasi.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TelefonNumarasiDogrulamaUygulamasi\TelefonNumarasiDogrulamaUygulamasi\obj\Debug\TelefonNumarasiDogrulamaUygulamasi.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TelefonNumarasiDogrulamaUygulamasi\TelefonNumarasiDogrulamaUygulamasi\obj\Debug\TelefonNumarasiDogrulamaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TelefonNumarasiDogrulamaUygulamasi\TelefonNumarasiDogrulamaUygulamasi\bin\Debug\TelefonNumarasiDogrulamaUygulamasi.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TelefonNumarasiDogrulamaUygulamasi\TelefonNumarasiDogrulamaUygulamasi\bin\Debug\TelefonNumarasiDogrulamaUygulamasi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TelefonNumarasiDogrulamaUygulamasi\TelefonNumarasiDogrulamaUygulamasi\bin\Debug\TelefonNumarasiDogrulamaUygulamasi.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TelefonNumarasiDogrulamaUygulamasi\TelefonNumarasiDogrulamaUygulamasi\obj\Debug\TelefonNumarasiDogrulamaUygulamasi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TelefonNumarasiDogrulamaUygulamasi\TelefonNumarasiDogrulamaUygulamasi\obj\Debug\TelefonNumarasiDogrulamaUygulamasi.pdb

@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TahminOyunu\TahminOyunu\bin\Debug\TahminOyunu.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TahminOyunu\TahminOyunu\bin\Debug\TahminOyunu.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TahminOyunu\TahminOyunu\bin\Debug\TahminOyunu.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sayı tahmin eden uygulama/1.0.0": {
+        "runtime": {
+          "Sayı tahmin eden uygulama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sayı tahmin eden uygulama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch mantığı", "TryCatch mantığı\TryCatch mantığı.csproj", "{567B0BE7-C1AB-438C-ADD5-1AEBA554BB79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567B0BE7-C1AB-438C-ADD5-1AEBA554BB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567B0BE7-C1AB-438C-ADD5-1AEBA554BB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567B0BE7-C1AB-438C-ADD5-1AEBA554BB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567B0BE7-C1AB-438C-ADD5-1AEBA554BB79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF080E3-FBC3-4CDA-A338-2E0090BB40E7}
+	EndGlobalSection
+EndGlobal

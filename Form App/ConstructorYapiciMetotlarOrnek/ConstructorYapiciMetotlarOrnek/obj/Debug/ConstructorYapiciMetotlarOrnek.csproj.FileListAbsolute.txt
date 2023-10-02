@@ -1,0 +1,12 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\ConstructorYapiciMetotlarOrnek\ConstructorYapiciMetotlarOrnek\bin\Debug\ConstructorYapiciMetotlarOrnek.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\ConstructorYapiciMetotlarOrnek\ConstructorYapiciMetotlarOrnek\bin\Debug\ConstructorYapiciMetotlarOrnek.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\ConstructorYapiciMetotlarOrnek\ConstructorYapiciMetotlarOrnek\bin\Debug\ConstructorYapiciMetotlarOrnek.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\ConstructorYapiciMetotlarOrnek\ConstructorYapiciMetotlarOrnek\obj\Debug\ConstructorYapiciMetotlarOrnek.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\ConstructorYapiciMetotlarOrnek\ConstructorYapiciMetotlarOrnek\obj\Debug\ConstructorYapiciMetotlarOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\ConstructorYapiciMetotlarOrnek\ConstructorYapiciMetotlarOrnek\obj\Debug\ConstructorYapiciMetotlarOrnek.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\ConstructorYapiciMetotlarOrnek\ConstructorYapiciMetotlarOrnek\obj\Debug\ConstructorYapiciMetotlarOrnek.Form2.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\ConstructorYapiciMetotlarOrnek\ConstructorYapiciMetotlarOrnek\obj\Debug\ConstructorYapiciMetotlarOrnek.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\ConstructorYapiciMetotlarOrnek\ConstructorYapiciMetotlarOrnek\obj\Debug\ConstructorYapiciMetotlarOrnek.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\ConstructorYapiciMetotlarOrnek\ConstructorYapiciMetotlarOrnek\obj\Debug\ConstructorYapiciMetotlarOrnek.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\ConstructorYapiciMetotlarOrnek\ConstructorYapiciMetotlarOrnek\obj\Debug\ConstructorYapiciMetotlarOrnek.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\ConstructorYapiciMetotlarOrnek\ConstructorYapiciMetotlarOrnek\obj\Debug\ConstructorYapiciMetotlarOrnek.pdb

@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\GeriyeDegerDondurenMetotlar\GeriyeDegerDondurenMetotlar\bin\Debug\GeriyeDegerDondurenMetotlar.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\GeriyeDegerDondurenMetotlar\GeriyeDegerDondurenMetotlar\bin\Debug\GeriyeDegerDondurenMetotlar.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\GeriyeDegerDondurenMetotlar\GeriyeDegerDondurenMetotlar\bin\Debug\GeriyeDegerDondurenMetotlar.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\GeriyeDegerDondurenMetotlar\GeriyeDegerDondurenMetotlar\obj\Debug\GeriyeDegerDondurenMetotlar.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\GeriyeDegerDondurenMetotlar\GeriyeDegerDondurenMetotlar\obj\Debug\GeriyeDegerDondurenMetotlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\GeriyeDegerDondurenMetotlar\GeriyeDegerDondurenMetotlar\obj\Debug\GeriyeDegerDondurenMetotlar.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\GeriyeDegerDondurenMetotlar\GeriyeDegerDondurenMetotlar\obj\Debug\GeriyeDegerDondurenMetotlar.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\GeriyeDegerDondurenMetotlar\GeriyeDegerDondurenMetotlar\obj\Debug\GeriyeDegerDondurenMetotlar.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\GeriyeDegerDondurenMetotlar\GeriyeDegerDondurenMetotlar\obj\Debug\GeriyeDegerDondurenMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\GeriyeDegerDondurenMetotlar\GeriyeDegerDondurenMetotlar\obj\Debug\GeriyeDegerDondurenMetotlar.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\GeriyeDegerDondurenMetotlar\GeriyeDegerDondurenMetotlar\obj\Debug\GeriyeDegerDondurenMetotlar.pdb

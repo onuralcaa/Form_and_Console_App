@@ -1,0 +1,16 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\obj\Debug\net5.0\ve veya operatörleri.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\obj\Debug\net5.0\ve veya operatörleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\obj\Debug\net5.0\ve veya operatörleri.AssemblyInfoInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\obj\Debug\net5.0\ve veya operatörleri.AssemblyInfo.cs
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\obj\Debug\net5.0\ve veya operatörleri.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\bin\Debug\net5.0\ve veya operatörleri.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\bin\Debug\net5.0\ve veya operatörleri.deps.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\bin\Debug\net5.0\ve veya operatörleri.runtimeconfig.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\bin\Debug\net5.0\ve veya operatörleri.runtimeconfig.dev.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\bin\Debug\net5.0\ve veya operatörleri.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\bin\Debug\net5.0\ve veya operatörleri.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\obj\Debug\net5.0\ve veya operatörleri.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\obj\Debug\net5.0\refint\ve veya operatörleri.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\obj\Debug\net5.0\ve veya operatörleri.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\obj\Debug\net5.0\ve veya operatörleri.genruntimeconfig.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\ve veya operatörleri\ve veya operatörleri\obj\Debug\net5.0\ref\ve veya operatörleri.dll

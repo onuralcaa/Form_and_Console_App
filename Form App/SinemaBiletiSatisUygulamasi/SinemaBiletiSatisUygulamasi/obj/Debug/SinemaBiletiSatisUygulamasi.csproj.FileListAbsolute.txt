@@ -1,0 +1,13 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\SinemaBiletiSatisUygulamasi\SinemaBiletiSatisUygulamasi\bin\Debug\SinemaBiletiSatisUygulamasi.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\SinemaBiletiSatisUygulamasi\SinemaBiletiSatisUygulamasi\bin\Debug\SinemaBiletiSatisUygulamasi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\SinemaBiletiSatisUygulamasi\SinemaBiletiSatisUygulamasi\bin\Debug\SinemaBiletiSatisUygulamasi.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\SinemaBiletiSatisUygulamasi\SinemaBiletiSatisUygulamasi\obj\Debug\SinemaBiletiSatisUygulamasi.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\SinemaBiletiSatisUygulamasi\SinemaBiletiSatisUygulamasi\obj\Debug\SinemaBiletiSatisUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\SinemaBiletiSatisUygulamasi\SinemaBiletiSatisUygulamasi\obj\Debug\SinemaBiletiSatisUygulamasi.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\SinemaBiletiSatisUygulamasi\SinemaBiletiSatisUygulamasi\obj\Debug\SinemaBiletiSatisUygulamasi.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\SinemaBiletiSatisUygulamasi\SinemaBiletiSatisUygulamasi\obj\Debug\SinemaBiletiSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\SinemaBiletiSatisUygulamasi\SinemaBiletiSatisUygulamasi\obj\Debug\SinemaBiletiSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\SinemaBiletiSatisUygulamasi\SinemaBiletiSatisUygulamasi\obj\Debug\SinemaBiletiSatisUygulamasi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\SinemaBiletiSatisUygulamasi\SinemaBiletiSatisUygulamasi\obj\Debug\SinemaBiletiSatisUygulamasi.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\SinemaBiletiSatisUygulamasi\SinemaBiletiSatisUygulamasi\obj\Debug\SinemaBiletiSatisUygulamasi.Form2.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\SinemaBiletiSatisUygulamasi\SinemaBiletiSatisUygulamasi\obj\Debug\SinemaBiletiSatisUygulamasi.Form3.resources

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tip dönüşümleri/1.0.0": {
+        "runtime": {
+          "Tip dönüşümleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tip dönüşümleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

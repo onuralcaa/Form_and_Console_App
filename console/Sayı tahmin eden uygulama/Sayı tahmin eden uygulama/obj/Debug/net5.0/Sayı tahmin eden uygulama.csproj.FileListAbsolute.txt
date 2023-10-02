@@ -1,0 +1,16 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\bin\Debug\net5.0\Sayı tahmin eden uygulama.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\bin\Debug\net5.0\Sayı tahmin eden uygulama.deps.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\bin\Debug\net5.0\Sayı tahmin eden uygulama.runtimeconfig.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\bin\Debug\net5.0\Sayı tahmin eden uygulama.runtimeconfig.dev.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\bin\Debug\net5.0\Sayı tahmin eden uygulama.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\bin\Debug\net5.0\Sayı tahmin eden uygulama.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\obj\Debug\net5.0\Sayı tahmin eden uygulama.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\obj\Debug\net5.0\Sayı tahmin eden uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\obj\Debug\net5.0\Sayı tahmin eden uygulama.AssemblyInfoInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\obj\Debug\net5.0\Sayı tahmin eden uygulama.AssemblyInfo.cs
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\obj\Debug\net5.0\Sayı tahmin eden uygulama.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\obj\Debug\net5.0\Sayı tahmin eden uygulama.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\obj\Debug\net5.0\refint\Sayı tahmin eden uygulama.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\obj\Debug\net5.0\Sayı tahmin eden uygulama.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\obj\Debug\net5.0\Sayı tahmin eden uygulama.genruntimeconfig.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\Sayı tahmin eden uygulama\Sayı tahmin eden uygulama\obj\Debug\net5.0\ref\Sayı tahmin eden uygulama.dll

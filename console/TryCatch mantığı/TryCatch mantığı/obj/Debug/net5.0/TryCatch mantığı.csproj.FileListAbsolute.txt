@@ -1,0 +1,16 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\bin\Debug\net5.0\TryCatch mantığı.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\bin\Debug\net5.0\TryCatch mantığı.deps.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\bin\Debug\net5.0\TryCatch mantığı.runtimeconfig.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\bin\Debug\net5.0\TryCatch mantığı.runtimeconfig.dev.json
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\bin\Debug\net5.0\TryCatch mantığı.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\bin\Debug\net5.0\TryCatch mantığı.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\obj\Debug\net5.0\TryCatch mantığı.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\obj\Debug\net5.0\TryCatch mantığı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\obj\Debug\net5.0\TryCatch mantığı.AssemblyInfoInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\obj\Debug\net5.0\TryCatch mantığı.AssemblyInfo.cs
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\obj\Debug\net5.0\TryCatch mantığı.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\obj\Debug\net5.0\TryCatch mantığı.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\obj\Debug\net5.0\refint\TryCatch mantığı.dll
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\obj\Debug\net5.0\TryCatch mantığı.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\obj\Debug\net5.0\TryCatch mantığı.genruntimeconfig.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\console\TryCatch mantığı\TryCatch mantığı\obj\Debug\net5.0\ref\TryCatch mantığı.dll

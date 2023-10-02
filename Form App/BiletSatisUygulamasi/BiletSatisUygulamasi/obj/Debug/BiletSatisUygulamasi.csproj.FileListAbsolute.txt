@@ -1,0 +1,11 @@
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\BiletSatisUygulamasi\BiletSatisUygulamasi\bin\Debug\BiletSatisUygulamasi.exe.config
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\BiletSatisUygulamasi\BiletSatisUygulamasi\bin\Debug\BiletSatisUygulamasi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\BiletSatisUygulamasi\BiletSatisUygulamasi\bin\Debug\BiletSatisUygulamasi.pdb
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\BiletSatisUygulamasi\BiletSatisUygulamasi\obj\Debug\BiletSatisUygulamasi.csproj.AssemblyReference.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\BiletSatisUygulamasi\BiletSatisUygulamasi\obj\Debug\BiletSatisUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\BiletSatisUygulamasi\BiletSatisUygulamasi\obj\Debug\BiletSatisUygulamasi.Form1.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\BiletSatisUygulamasi\BiletSatisUygulamasi\obj\Debug\BiletSatisUygulamasi.Properties.Resources.resources
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\BiletSatisUygulamasi\BiletSatisUygulamasi\obj\Debug\BiletSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\BiletSatisUygulamasi\BiletSatisUygulamasi\obj\Debug\BiletSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\BiletSatisUygulamasi\BiletSatisUygulamasi\obj\Debug\BiletSatisUygulamasi.exe
+C:\Users\onura\OneDrive\Masaüstü\C# dersleri\Form App\BiletSatisUygulamasi\BiletSatisUygulamasi\obj\Debug\BiletSatisUygulamasi.pdb
